@@ -5,4 +5,5 @@ Loadstring:
     loadstring(game:HttpGet("https://raw.githubusercontent.com/rafedaniels/rafehub/public/newObfedLoader.lua"))()
 ```
 
-Key: `RD.BETA83wNMMWROW3vP1s6GnDZ` (Script is currently public and free for beta)
+Updated key 9/21/2022
+Key: `RD.FREEmDb0vlHW6M6p01Y6TejT` (Script is currently public and free for beta)
