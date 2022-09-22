@@ -2,8 +2,9 @@ A really good script hub for a variety of roblox games
 
 Loadstring:
 ```lua
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/rafedaniels/rafehub/public/newObfedLoader.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/rafedaniels/rafehub/public/rhub3.lua"))()
 ```
 
-Updated key 9/21/2022
-Key: `RD.FREEmDb0vlHW6M6p01Y6TejT` (Script is currently public and free for beta)
+**CURRENTLY FREE!**
+Currently free for the first 35 users! (5 of them will get premium key...)
+Join our [discord](https://discord.gg/myQV3232Sk) to participate! 
