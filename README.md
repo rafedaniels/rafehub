@@ -1,3 +1,5 @@
+# Deprecated
+[New Project](https://github.com/RafeCheats/RHub)
 A really good script hub for a variety of roblox games
 
 Loadstring:
